@@ -9,7 +9,7 @@
     "react-scripts": "1.0.17"
   },
   "scripts": {
-    "start": "NODE_ENV=development PORT=80 node server",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
